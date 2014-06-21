@@ -1,3 +1,4 @@
 # SICP exercises
 
-This is the nice solutions to the nice SICP nice scheme textbook made by profs @ MIT.
+Solutions of the exercises provided in the SICP, a scheme language textbook
+written by professor(s) in MIT.
